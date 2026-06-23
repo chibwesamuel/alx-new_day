@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains solutions, exercises, and learning materials for the ALX Software Engineering project **0x03. Git**.
+This repository contains solutions, exercises, and learning materials for the ALX Software Engineering project **0x03. Git**. I revisited this for continuous learning and staying up-to-date with emerging trends and practices in the industry.
 
 The project focuses on understanding Git and GitHub fundamentals, source code management principles, collaboration workflows, and best practices for maintaining software repositories.
 
